@@ -1,0 +1,855 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC975704-B793-44AE-8A1F-9BEA4A865866}|Wissen.Istka.BlogProject.App.Service\\Wissen.Istka.BlogProject.App.Service.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.service\\services\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC975704-B793-44AE-8A1F-9BEA4A865866}|Wissen.Istka.BlogProject.App.Service\\Wissen.Istka.BlogProject.App.Service.csproj|solutionrelative:wissen.istka.blogproject.app.service\\services\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FE653E-9415-4DF2-844B-B44CB04B24B3}|Wissen.Istka.BlogProject.App.DataAccess\\Wissen.Istka.BlogProject.App.DataAccess.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.dataaccess\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FE653E-9415-4DF2-844B-B44CB04B24B3}|Wissen.Istka.BlogProject.App.DataAccess\\Wissen.Istka.BlogProject.App.DataAccess.csproj|solutionrelative:wissen.istka.blogproject.app.dataaccess\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.entity\\viewmodels\\articleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|solutionrelative:wissen.istka.blogproject.app.entity\\viewmodels\\articleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.entity\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|solutionrelative:wissen.istka.blogproject.app.entity\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.webmvcui\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.istka.blogproject.app.webmvcui\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.webmvcui\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.istka.blogproject.app.webmvcui\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.webmvcui\\views\\shared\\_layout-blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.istka.blogproject.app.webmvcui\\views\\shared\\_layout-blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.webmvcui\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.istka.blogproject.app.webmvcui\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.webmvcui\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.istka.blogproject.app.webmvcui\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.webmvcui\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.istka.blogproject.app.webmvcui\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.webmvcui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.istka.blogproject.app.webmvcui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC975704-B793-44AE-8A1F-9BEA4A865866}|Wissen.Istka.BlogProject.App.Service\\Wissen.Istka.BlogProject.App.Service.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.service\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC975704-B793-44AE-8A1F-9BEA4A865866}|Wissen.Istka.BlogProject.App.Service\\Wissen.Istka.BlogProject.App.Service.csproj|solutionrelative:wissen.istka.blogproject.app.service\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.webmvcui\\areas\\admin\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.istka.blogproject.app.webmvcui\\areas\\admin\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.entity\\viewmodels\\editroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|solutionrelative:wissen.istka.blogproject.app.entity\\viewmodels\\editroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.entity\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|solutionrelative:wissen.istka.blogproject.app.entity\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.entity\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|solutionrelative:wissen.istka.blogproject.app.entity\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FE653E-9415-4DF2-844B-B44CB04B24B3}|Wissen.Istka.BlogProject.App.DataAccess\\Wissen.Istka.BlogProject.App.DataAccess.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.dataaccess\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FE653E-9415-4DF2-844B-B44CB04B24B3}|Wissen.Istka.BlogProject.App.DataAccess\\Wissen.Istka.BlogProject.App.DataAccess.csproj|solutionrelative:wissen.istka.blogproject.app.dataaccess\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.entity\\viewmodels\\usersinoroutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|solutionrelative:wissen.istka.blogproject.app.entity\\viewmodels\\usersinoroutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.entity\\viewmodels\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|solutionrelative:wissen.istka.blogproject.app.entity\\viewmodels\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.webmvcui\\areas\\admin\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.istka.blogproject.app.webmvcui\\areas\\admin\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.webmvcui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.istka.blogproject.app.webmvcui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.webmvcui\\views\\shared\\_layout-home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.istka.blogproject.app.webmvcui\\views\\shared\\_layout-home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.webmvcui\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.istka.blogproject.app.webmvcui\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC975704-B793-44AE-8A1F-9BEA4A865866}|Wissen.Istka.BlogProject.App.Service\\Wissen.Istka.BlogProject.App.Service.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.service\\extensions\\dependencyextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC975704-B793-44AE-8A1F-9BEA4A865866}|Wissen.Istka.BlogProject.App.Service\\Wissen.Istka.BlogProject.App.Service.csproj|solutionrelative:wissen.istka.blogproject.app.service\\extensions\\dependencyextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC975704-B793-44AE-8A1F-9BEA4A865866}|Wissen.Istka.BlogProject.App.Service\\Wissen.Istka.BlogProject.App.Service.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.service\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC975704-B793-44AE-8A1F-9BEA4A865866}|Wissen.Istka.BlogProject.App.Service\\Wissen.Istka.BlogProject.App.Service.csproj|solutionrelative:wissen.istka.blogproject.app.service\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.webmvcui\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.istka.blogproject.app.webmvcui\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.webmvcui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.istka.blogproject.app.webmvcui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.webmvcui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.istka.blogproject.app.webmvcui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.webmvcui\\wwwroot\\themes\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.istka.blogproject.app.webmvcui\\wwwroot\\themes\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.webmvcui\\wwwroot\\themes\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.istka.blogproject.app.webmvcui\\wwwroot\\themes\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.entity\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|solutionrelative:wissen.istka.blogproject.app.entity\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.entity\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|solutionrelative:wissen.istka.blogproject.app.entity\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC975704-B793-44AE-8A1F-9BEA4A865866}|Wissen.Istka.BlogProject.App.Service\\Wissen.Istka.BlogProject.App.Service.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.service\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC975704-B793-44AE-8A1F-9BEA4A865866}|Wissen.Istka.BlogProject.App.Service\\Wissen.Istka.BlogProject.App.Service.csproj|solutionrelative:wissen.istka.blogproject.app.service\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.entity\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|solutionrelative:wissen.istka.blogproject.app.entity\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC975704-B793-44AE-8A1F-9BEA4A865866}|Wissen.Istka.BlogProject.App.Service\\Wissen.Istka.BlogProject.App.Service.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.service\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC975704-B793-44AE-8A1F-9BEA4A865866}|Wissen.Istka.BlogProject.App.Service\\Wissen.Istka.BlogProject.App.Service.csproj|solutionrelative:wissen.istka.blogproject.app.service\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.entity\\services\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|solutionrelative:wissen.istka.blogproject.app.entity\\services\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.webmvcui\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.istka.blogproject.app.webmvcui\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.webmvcui\\wwwroot\\themes\\single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.istka.blogproject.app.webmvcui\\wwwroot\\themes\\single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.entity\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|solutionrelative:wissen.istka.blogproject.app.entity\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.entity\\viewmodels\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|solutionrelative:wissen.istka.blogproject.app.entity\\viewmodels\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.entity\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|solutionrelative:wissen.istka.blogproject.app.entity\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.entity\\services\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|solutionrelative:wissen.istka.blogproject.app.entity\\services\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.entity\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|solutionrelative:wissen.istka.blogproject.app.entity\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.entity\\unitofworks\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|solutionrelative:wissen.istka.blogproject.app.entity\\unitofworks\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.webmvcui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.istka.blogproject.app.webmvcui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.webmvcui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.istka.blogproject.app.webmvcui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.webmvcui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.istka.blogproject.app.webmvcui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.webmvcui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30F2A092-1403-4F4D-B785-90424480D511}|Wissen.Istka.BlogProject.App.WebMvcUI\\Wissen.Istka.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.istka.blogproject.app.webmvcui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FE653E-9415-4DF2-844B-B44CB04B24B3}|Wissen.Istka.BlogProject.App.DataAccess\\Wissen.Istka.BlogProject.App.DataAccess.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.dataaccess\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FE653E-9415-4DF2-844B-B44CB04B24B3}|Wissen.Istka.BlogProject.App.DataAccess\\Wissen.Istka.BlogProject.App.DataAccess.csproj|solutionrelative:wissen.istka.blogproject.app.dataaccess\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|c:\\users\\ahmet\\downloads\\wissen.istka.blogproject.app cv\\wissen.istka.blogproject.app\\wissen.istka.blogproject.app.entity\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3DB829-3360-4D06-85DB-1BDABD53F8E6}|Wissen.Istka.BlogProject.App.Entity\\Wissen.Istka.BlogProject.App.Entity.csproj|solutionrelative:wissen.istka.blogproject.app.entity\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\Entities\\Article.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Entity\\Entities\\Article.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\Entities\\Article.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Entity\\Entities\\Article.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:38:43.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Program.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.WebMvcUI\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Program.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.WebMvcUI\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwCIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:40:47.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout-Blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Shared\\_Layout-Blog.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Shared\\_Layout-Blog.cshtml",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Shared\\_Layout-Blog.cshtml",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Shared\\_Layout-Blog.cshtml",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAUwIQAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T09:18:22.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.WebMvcUI\\Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.WebMvcUI\\Controllers\\ArticleController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwCwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:45:32.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T08:02:03.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\ViewModels\\ArticleViewModel.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Entity\\ViewModels\\ArticleViewModel.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\ViewModels\\ArticleViewModel.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Entity\\ViewModels\\ArticleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T08:19:40.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.DataAccess\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.DataAccess\\UnitOfWorks\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.DataAccess\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.DataAccess\\UnitOfWorks\\UnitOfWork.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAUwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:13:08.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Service\\Services\\ArticleService.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Service\\Services\\ArticleService.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Service\\Services\\ArticleService.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Service\\Services\\ArticleService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T08:25:19.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Entity\\Services\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\Services\\IAccountService.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Entity\\Services\\IAccountService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA9wBQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T07:59:04.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T08:23:36.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA4AAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T06:05:19.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:08:23.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Service\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Service\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Service\\Services\\AccountService.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Service\\Services\\AccountService.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAuwJYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:09:41.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.DataAccess\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.DataAccess\\Identity\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.DataAccess\\Identity\\AppUser.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.DataAccess\\Identity\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:35:00.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Entity\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Entity\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:07:39.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditRoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\ViewModels\\EditRoleViewModel.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Entity\\ViewModels\\EditRoleViewModel.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\ViewModels\\EditRoleViewModel.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Entity\\ViewModels\\EditRoleViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:04:28.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T06:47:19.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\ViewModels\\RoleViewModel.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Entity\\ViewModels\\RoleViewModel.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\ViewModels\\RoleViewModel.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Entity\\ViewModels\\RoleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:09:54.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsersInOrOutViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\ViewModels\\UsersInOrOutViewModel.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Entity\\ViewModels\\UsersInOrOutViewModel.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\ViewModels\\UsersInOrOutViewModel.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Entity\\ViewModels\\UsersInOrOutViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T05:58:27.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.WebMvcUI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.WebMvcUI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAUwEcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:00:55.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T07:19:58.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout-Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Shared\\_Layout-Home.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Shared\\_Layout-Home.cshtml",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Shared\\_Layout-Home.cshtml",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Shared\\_Layout-Home.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T06:12:35.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T09:27:39.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.WebMvcUI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:58:25.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Service\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Service\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Service\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Service\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA1wBUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:37:57.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DependencyExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Service\\Extensions\\DependencyExtensions.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Service\\Extensions\\DependencyExtensions.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Service\\Extensions\\DependencyExtensions.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Service\\Extensions\\DependencyExtensions.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAgwDwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:43:17.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T09:07:00.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T07:56:19.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\wwwroot\\themes\\login.html",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.WebMvcUI\\wwwroot\\themes\\login.html",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\wwwroot\\themes\\login.html",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.WebMvcUI\\wwwroot\\themes\\login.html",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAJcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-04T09:04:40.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "register.html",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\wwwroot\\themes\\register.html",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.WebMvcUI\\wwwroot\\themes\\register.html",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\wwwroot\\themes\\register.html",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.WebMvcUI\\wwwroot\\themes\\register.html",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAALwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-04T09:26:25.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Entity\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Entity\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:01:56.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Entity\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Entity\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:04:54.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Service\\Services\\CommentService.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Service\\Services\\CommentService.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Service\\Services\\CommentService.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Service\\Services\\CommentService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:49:18.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ICommentService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\Services\\ICommentService.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Entity\\Services\\ICommentService.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\Services\\ICommentService.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Entity\\Services\\ICommentService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:48:51.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Entity\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Entity\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwA0AAACtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T07:40:34.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "single.html",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\wwwroot\\themes\\single.html",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.WebMvcUI\\wwwroot\\themes\\single.html",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\wwwroot\\themes\\single.html",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.WebMvcUI\\wwwroot\\themes\\single.html",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAJUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-04T06:00:59.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Service\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Service\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Service\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Service\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:13:22.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Article\\Index.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Article\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Article\\Index.cshtml",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Article\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T06:53:41.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Entity\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Entity\\Services\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:10:29.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CategoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\ViewModels\\CategoryViewModel.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Entity\\ViewModels\\CategoryViewModel.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\ViewModels\\CategoryViewModel.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Entity\\ViewModels\\CategoryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:11:43.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Entity\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Entity\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:02:54.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Entity\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\Entities\\Category.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Entity\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T06:35:21.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\Services\\IArticleService.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Entity\\Services\\IArticleService.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\Services\\IArticleService.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Entity\\Services\\IArticleService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T08:22:21.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\UnitOfWorks\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Entity\\UnitOfWorks\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\UnitOfWorks\\IUnitOfWork.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Entity\\UnitOfWorks\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:06:53.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T06:19:07.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T06:20:24.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.WebMvcUI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACgBAAAAAAAAAAAEwDUBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T06:18:05.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\appsettings.json",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.WebMvcUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.WebMvcUI\\appsettings.json",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.WebMvcUI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T07:38:49.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.DataAccess\\Identity\\AppRole.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.DataAccess\\Identity\\AppRole.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.DataAccess\\Identity\\AppRole.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.DataAccess\\Identity\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:36:14.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\Entities\\Tag.cs",
+              "RelativeDocumentMoniker": "Wissen.Istka.BlogProject.App.Entity\\Entities\\Tag.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Downloads\\Wissen.Istka.BlogProject.App cv\\Wissen.Istka.BlogProject.App\\Wissen.Istka.BlogProject.App.Entity\\Entities\\Tag.cs",
+              "RelativeToolTip": "Wissen.Istka.BlogProject.App.Entity\\Entities\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T06:38:45.932Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
